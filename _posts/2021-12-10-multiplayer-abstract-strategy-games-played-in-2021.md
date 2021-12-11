@@ -35,7 +35,7 @@ title: 2021 年に初プレイして楽しかった多人数アブストラク�
 土嚢でお馴染みだった [nestorgames](https://nestorgames.com/) ですが、マウスパッドではないものの一つに [Shibumi(渋)](https://boardgamegeek.com/boardgame/135270/shibumi) という3Dタイプのゲームを出しています。 nerstorgames というと全部のゲームをネスターさんが作っていると思われる方も多いようですが、ネスターさんはゲームデザイナーでありつつパブリッシャーでもある為、他のデザイナーのゲームも nestorgames ブランドで出版しています。
 中でも共通コンポーネントに色んなゲームのルール集を付けた物[^1]が [Yavalath & Co.(ヤバラスルール集)](https://boardgamegeek.com/boardgame/169738/yavalath-co) と、この渋です。渋の2人用ゲームは以前に友人と9割方プレイしていたのですが、後ろのページの方にはアブストラクト以外だったり多人数対応のゲームもありました。先日この中の3人専用ゲームを遊ばせて貰う機会があってとてもおもしろかったのでご紹介します。
 
-アクロンの作者であり、[Yavalath(ヤバラス)](https://boardgamegeek.com/boardgame/33767/yavalath) の作者の作者でも有名な [Cameron Browne(キャメロン ブラウン)](https://boardgamegeek.com/boardgamedesigner/3541/cameron-browne) さんの作品。
+[Akron(アクロン)](https://boardgamegeek.com/boardgame/10889/akron) の作者であり、[Yavalath(ヤバラス)](https://boardgamegeek.com/boardgame/33767/yavalath) の作者の作者でも有名な [Cameron Browne(キャメロン ブラウン)](https://boardgamegeek.com/boardgamedesigner/3541/cameron-browne) さんの作品。
 今年遊んだ中で一番尖ったゲームかもしれません。
 
 推しポイント
