@@ -31,6 +31,12 @@ project_entries:
     desc: アドベントカレンダーとして書きました
     highlight: NEW
 
+  - title: 和訳やサマリー集(未整理)
+    url: https://gist.github.com/pecan7uts
+
+  - title: BGGにアップロードしたファイル
+    url: https://boardgamegeek.com/files/boardgame/all?username=pecan
+
 old_project_entries:
   - title: 2020年時点のお気に入りTop15
     url: https://gist.github.com/pecan7uts/cc915be8196c46740e0db7d6ef95626d
