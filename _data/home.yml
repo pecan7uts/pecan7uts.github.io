@@ -26,9 +26,9 @@ project_entries:
     desc: 日本版 onehundred
     highlight: NEW
 
-  - title: 多人数アブストラクトの紹介
-    url: https://gist.github.com/pecan7uts/857358cfe660848e4f8a5455a2e281f4
-    desc: 日本版 onehundred
+  - title: 2021 年に初プレイして楽しかった多人数アブストラクトゲーム「スピニマックス」「ビラボング」「スーパーアダプト3」 の紹介
+    url: http://pecan7uts.github.io/multiplayer-abstract-strategy-games-played-in-2021.html
+    desc: アドベントカレンダーとして書きました
     highlight: NEW
 
 old_project_entries:

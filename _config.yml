@@ -1,8 +1,8 @@
-title: pecan's Tabletop games - リクエストしといて NFM
+title: リクエストしといてNFM
 author: pecan7uts
 url: https://pecan7uts.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  ぴーかんのボードゲーム関連ファイルやリンク
+  ボードゲーム関連のファイルやリンク
 
 permalink: /:slug.html
 
