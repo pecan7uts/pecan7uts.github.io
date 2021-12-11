@@ -49,3 +49,7 @@ plugins:
   - jekyll-soopr-seo-tag
 
 theme: moonwalk
+
+gems:
+  - jekyll-seo-tag
+
