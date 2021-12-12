@@ -3,7 +3,7 @@ layout: post
 title: ボードゲームのルール和訳とかサマリー
 ---
 
-既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
+テキストだけの物が多いです。既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
 
 * [Carolus Magnus/Carolvs Magnvs(カール大帝)](https://boardgamegeek.com/boardgame/481/carolus-magnus) - Leo Colovini - リメイクの [Eliantys](https://boardgamegeek.com/boardgame/341286/eriantys) では[このヴァリアントか、それに近いものが採用された](https://boardgamegeek.com/thread/2694621/summary-differences-carolus-magnus)ようです
     * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/dd84c0b8d9ecd28096e4)
