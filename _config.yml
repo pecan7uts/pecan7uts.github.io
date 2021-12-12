@@ -7,7 +7,8 @@ description: > # description of the site (multiple lines allowed)
 permalink: date
 
 favicon: "./avatar.png" # relative path to site's favicon
-image: "./avatar.png"
+logo: "./avatar.png"
+locale: ja
 
 twitter:
     username: pecan7uts # update or delete this
@@ -55,8 +56,3 @@ whitelist:
   - jekyll-redirect-from
 
 theme: moonwalk
-
-gems:
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-lunr-js-search
