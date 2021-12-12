@@ -25,6 +25,7 @@ project_entries:
 
   - title: 自作の和訳やサマリーへのリンク集
     url: myfiles
+    highlight: WIP
 
   - title: BGGにアップロードしたファイル
     url: https://boardgamegeek.com/files/boardgame/all?username=pecan
