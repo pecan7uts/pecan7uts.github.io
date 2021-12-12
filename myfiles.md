@@ -83,7 +83,7 @@ title: ボードゲームのルール和訳とかサマリー
 * [Cash or Crash(キャッシュオアクラッシュ)](https://boardgamegeek.com/boardgame/136528/cash-or-crash) - Alex Weldon - 知名度が低いと思いますが、ゆるめのブラフゲームとして好きです
     * [サマリー Markdown](https://gist.github.com/pecan7uts/a82658930de67a41ea29)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205784/cash-or-crash-japanese-summary)
-* [Shitenno(四天王)](https://boardgamegeek.com/boardgame/102610/shitenno) - パット見重そうですが、ケーキ切り分け系のゲームです
+* [Shitenno(四天王)](https://boardgamegeek.com/boardgame/102610/shitenno) - Cédric Lefebvre - パット見重そうですが、ケーキ切り分け系のゲームです
     * [サマリー Markdown](https://gist.github.com/pecan7uts/763f6f7473572e81d14a)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205782/shitenno-japanese-summary)
 * [Legacy: Gears of Time(レガシー: 時の歯車)](https://boardgamegeek.com/boardgame/119781/legacy-gears-time) - Ben Harkins - タイムトラベルを取り扱ったゲームでは今のところ一番好きかもしれません
