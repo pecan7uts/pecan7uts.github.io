@@ -22,7 +22,7 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 * 上記2つのおかげで、観戦者も対局者と同じように考える事を楽しめる
 * ルールを読んだ時点では想像出来なかった、ミニマムなルールから生まれる深い指し手の幅に気づいた時のアハ体験
 
-2人用ゲームで嬉しいところは以下です。
+二人用ゲームで嬉しいところは以下です。
 
 * キングメイカーにならず済むので、見込みが無くなったら投了できる
 * 横から殴られるということが無いので、遠慮会釈なく正面から殴り合える
@@ -37,7 +37,7 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 [BGG](https://boardgamegeek.com/boardgame/116133/spinimax)
 
 土嚢でお馴染みだった [nestorgames](https://nestorgames.com/) ですが、マウスパッドではないものの一つに [Shibumi(渋)](https://boardgamegeek.com/boardgame/135270/shibumi) という3Dタイプのゲームを出しています。 nerstorgames というと全部のゲームをネスターさんが作っていると思われる方も多いようですが、ネスターさんはゲームデザイナーでありつつパブリッシャーでもある為、他のデザイナーのゲームも nestorgames ブランドで出版しています。
-中でも共通コンポーネントに色んなゲームのルール集を付けた物[^1]が [Yavalath & Co.(ヤバラスルール集)](https://boardgamegeek.com/boardgame/169738/yavalath-co) と、この渋です。渋の2人用ゲームは以前に友人と9割方プレイしていたのですが、後ろのページの方にはアブストラクト以外だったり多人数対応のゲームもありました。先日この中の3人専用ゲームを遊ばせて貰う機会があってとてもおもしろかったのでご紹介します。
+中でも共通コンポーネントに色んなゲームのルール集を付けた物[^1]が [Yavalath & Co.(ヤバラスルール集)](https://boardgamegeek.com/boardgame/169738/yavalath-co) と、この渋です。渋の二人用ゲームは以前に友人と9割方プレイしていたのですが、後ろのページの方にはアブストラクト以外だったり多人数対応のゲームもありました。先日この中の三人専用ゲームを遊ばせて貰う機会があってとてもおもしろかったのでご紹介します。
 
 [Akron(アクロン)](https://boardgamegeek.com/boardgame/10889/akron) の作者であり、[Yavalath(ヤバラス)](https://boardgamegeek.com/boardgame/33767/yavalath) の作者の作者でも有名な [Cameron Browne(キャメロン ブラウン)](https://boardgamegeek.com/boardgamedesigner/3541/cameron-browne) さんの作品。
 今年遊んだ中で一番尖ったゲームかもしれません。
@@ -54,17 +54,17 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 そしてボールのピラミッドが完成した時に、一番上のボールを担当していたプレイヤーの勝利というのは [Pylos(ピロス)](https://boardgamegeek.com/boardgame/1419/pylos) なんかと同じですね。
 直下の4ボールの数の多寡で勝敗判定をして上段に自動処理が発生するのは、[Upper Hand(アッパーハンド)](https://boardgamegeek.com/boardgame/4545/upper-hand)[^2]と同じです。
 
-しかし、このゲームはこれら全てを、より切れ味鋭くするようなルールを採用しました、それが3人専用とマイノリティ勝ちです。
+しかし、このゲームはこれら全てを、より切れ味鋭くするようなルールを採用しました、それが三人専用とマイノリティ勝ちです。
 
 上段へ上がるプレイヤーは**単独最少**です。しかし、**単独最少が居なかった場合には最多が勝ちます**。
-3人プレイ時に単独最少が居ないと必ず単独最多が生じるので、同点での引きわけやタイブレーク考慮は発生しません。
+三人プレイ時に単独最少が居ないと必ず単独最多が生じるので、同点での引きわけやタイブレーク考慮は発生しません。
 つまり**二段目以降は必ず自動処理で積み上がります**。
 
 写真は自分の四戦目からです。赤が一段目から二段目への勝敗判定で全て負けた結果、三段目では全て単独最少で勝ちました。四段目(頂上)は最少被りのため最多で勝利しています。赤は自分でしたが、この展開になるとは思いもしませんでした。
 
 ![スピニマックス](https://user-images.githubusercontent.com/10191682/145660923-64b5c299-4f59-4769-955a-f20d24d5281e.png)
 
-最初は宇宙人の発想かと思っていたのですが、よく考えるとこれは [Big Shot(ビッグショット)](https://boardgamegeek.com/boardgame/1125/big-shot) や [Das Pferd von Troja(トロイの木馬)](https://boardgamegeek.com/boardgame/2625/das-pferd-von-troja) 等に於けるマジョリティバッティングは無効というルールの変形なのかなと思うようになりました。それをミニマムな形へ落とし込む際に生まれたのが3人専用且つマイノリティ優先だったのかもしれませんが、渋のコンポーネントを抜群に生かした上段へ駆け上がる自動処理も相まって唯一無二の存在になっています。
+最初は宇宙人の発想かと思っていたのですが、よく考えるとこれは [Big Shot(ビッグショット)](https://boardgamegeek.com/boardgame/1125/big-shot) や [Das Pferd von Troja(トロイの木馬)](https://boardgamegeek.com/boardgame/2625/das-pferd-von-troja) 等に於けるマジョリティバッティングは無効というルールの変形なのかなと思うようになりました。それをミニマムな形へ落とし込む際に生まれたのが三人専用且つマイノリティ優先だったのかもしれませんが、渋のコンポーネントを抜群に生かした上段へ駆け上がる自動処理も相まって唯一無二の存在になっています。
 
 渋は nestorgames の中でも比較的入手しやすい部類のゲームだったのですが、2021 年の土嚢系撤退に伴い通常の版が公式での販売リストから無くなり、今はデラックス版の取り扱いも無いのが残念です。
 
@@ -79,7 +79,7 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 * 「養分」という単語が自然と飛び交う
 * ルール把握時点での想像を遥かに超えてくる展開の面白さ
 
-ここで紹介している3ゲームの中で一番古く、1992 年に初版が出ています。作者はつい昨年亡くなられた [Eric Solomon(エリック ソロモン)](https://boardgamegeek.com/boardgamedesigner/104/eric-solomon) さんで、バッグドローながらアブストラクト色の強い2人用ゲームの [Hyle 7(ヒュレ7)](https://boardgamegeek.com/boardgame/1329/hyle)や、[Black Box(ブラックボックス)](https://boardgamegeek.com/boardgame/165/black-box)、[Casablanca(カサブランカ)](https://boardgamegeek.com/boardgame/697/conspiracy) 等の代表作があります。 nestorgames さんが [Corporation(コーポレーション)](https://boardgamegeek.com/boardgame/63161/corporation) という多人数対応のアブストラクトをリテーマ？出版していますし、カサブランカは [Die Jagd nach dem Gral(聖杯争奪戦)](https://boardgamegeek.com/boardgame/31909/die-jagd-nach-dem-gral) 等でのリメイクを重ねています。自分はつい先日まで Corporation 以外の作品は名前すら知らなかったのですが、[ホヌゲームズ](https://twitter.com/Honu_Games)さんが最近ビラボングを取り扱ってくれたことで触れる機会に恵まれました。以下がざっくりしたルールです。
+ここで紹介している3ゲームの中で一番古く、1992 年に初版が出ています。作者はつい昨年亡くなられた [Eric Solomon(エリック ソロモン)](https://boardgamegeek.com/boardgamedesigner/104/eric-solomon) さんで、バッグドローながらアブストラクト色の強い二人用ゲームの [Hyle 7(ヒュレ7)](https://boardgamegeek.com/boardgame/1329/hyle)や、[Black Box(ブラックボックス)](https://boardgamegeek.com/boardgame/165/black-box)、[Casablanca(カサブランカ)](https://boardgamegeek.com/boardgame/697/conspiracy) 等の代表作があります。 nestorgames さんが [Corporation(コーポレーション)](https://boardgamegeek.com/boardgame/63161/corporation) という多人数対応のアブストラクトをリテーマ？出版していますし、カサブランカは [Die Jagd nach dem Gral(聖杯争奪戦)](https://boardgamegeek.com/boardgame/31909/die-jagd-nach-dem-gral) 等でのリメイクを重ねています。自分はつい先日まで Corporation 以外の作品は名前すら知らなかったのですが、[ホヌゲームズ](https://twitter.com/Honu_Games)さんが最近ビラボングを取り扱ってくれたことで触れる機会に恵まれました。以下がざっくりしたルールです。
 
 * 1コマに対して、将棋の王将の動きをさせるか遠距離連続ジャンプをさせてゴールを目指す
 * 後ろや横へも移動やジャンプをして良い
@@ -93,7 +93,7 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 ![ビラボング](https://user-images.githubusercontent.com/10191682/145661087-c6130b6a-d8d6-4091-9d9b-c631ea875250.png)
 
 連続ジャンプで全コマを目的地へ到達させるというのは[Chinese Checkers(チャイニーズチェッカー/ダイヤモンドゲーム)](https://boardgamegeek.com/boardgame/2386/chinese-checkers)に似ているという感想を聞いてナルホドと思いました。そこへ加わった遠距離全方向ジャンプとカンガルーテーマがマッチして、多人数アブストラクトとしてもレースゲームとしても、トップクラスに好きなゲームになりました。
-初版だと4人までのゲームだったのですが、最近のリメイクでは5人まで対応になっています。自分は3人と4人でしかプレイしていないのですが、4人ぐらいが賑やかさとダウンタイムの兼ね合いで丁度良いのでは無いかなと。ただ2人プレイは読める範囲が広がる分別の面白さがありそうなので、どこかで試してみたいです。
+初版だと四人までのゲームだったのですが、最近のリメイクでは五人まで対応になっています。自分は三人と四人でしかプレイしていないのですが、四人ぐらいが賑やかさとダウンタイムの兼ね合いで丁度良いのでは無いかなと。ただ二人プレイは読める範囲が広がる分別の面白さがありそうなので、どこかで試してみたいです。
 
 # SuperAdapt3(スーパーアダプト3)
 
@@ -108,7 +108,7 @@ description: 「Spinimax(スピニマックス)」「Billabong(ビラボング)�
 nestorgames の代表作は何でしょう。人によって違う？いや、公式に代表作があるのです。それが [Adaptoid(アダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) 。なんか見た目がアブストラクトっぽくなくて全然興味を持ててなかったのですが、 nestorgames のあのロゴはこいつのピクトグラムなのです。
 蟹のような何者かが戦闘力か移動力を増しつつ機を見て相手に襲い掛かるというかなり異色なテーマのアブストラクトです。作者は nestorgames のドン、 [Néstor Romeral Andrés(ネスター ロメラル アンドレス)](https://boardgamegeek.com/boardgamedesigner/9393/nestor-romeral-andres) さん。
 
-2人プレイの雰囲気は是非[アブな世界の動画](https://www.youtube.com/watch?v=YIFzI8t4pxE)で確認してみてください。
+二人プレイの雰囲気は是非[アブな世界の動画](https://www.youtube.com/watch?v=YIFzI8t4pxE)で確認してみてください。
 ざっくり以下のルールです。
 
 1. 手番の頭に1コマだけ、そのコマの脚の本数分動かしてもよい。敵のコマのマスに侵入すると、爪の本数が少ない方が取り除かれる。同数だった場合は両方取り除かれる
@@ -120,7 +120,7 @@ nestorgames の代表作は何でしょう。人によって違う？いや、�
 Adaptoid のルールで特徴的なのは、なんといっても呼吸判定でしょう。**自分の脚や爪の本数以上周囲のマスが空いてないと呼吸出来ません**。移動力に関しては [DVONN(デュボン)](https://boardgamegeek.com/boardgame/2346/dvonn) 等使い切りが必須のゲームでも一概にお得と言い切れなかったのですが、戦闘力を上げる程死にやすくなるというのは斬新です。また、捕獲系ゲームでは取ってきた相手のコマを取り返せるよう一か所へ戦力集中する展開が良く生じますが、コマ同士がくっつくと仲間であっても呼吸の妨げになるというのがこれをやりづらくしています。
 対戦相手としても常にこの筋を狙って相手の最強コマへの一撃死を狙えます。自分のコマを移動で隣接させ、隣のマスへ仲間を増して呼吸点を一気に二つ減らすのが基本手筋でしょう。最強の存在を倒すのは得てして最弱の存在というのがなんともイカしてます。
 
-これを3人でもプレイできるようにする拡張が [Adapt3(アダプト3)](https://boardgamegeek.com/boardgameexpansion/147611/adapt3) です。単にコマを増やしただけではなく、追加のルールがキレてます。
+これを三人でもプレイできるようにする拡張が [Adapt3(アダプト3)](https://boardgamegeek.com/boardgameexpansion/147611/adapt3) です。単にコマを増やしただけではなく、追加のルールがキレてます。
 
 * 直接攻撃を加えられるのは上家に対してのみ
 * 呼吸判定は全対戦相手を対象にする
@@ -134,7 +134,7 @@ Adaptoid のルールで特徴的なのは、なんといっても呼吸判定�
 それぞれの利害関係が絡み合う三人マルチというと [Maria(マリア)](https://boardgamegeek.com/boardgame/40354/maria) が思い浮かびます。大変面白い作品なのですが、ウォーゲームが下敷きになっているのでルールの細則が多く、プレイ時間も長い為中々気軽には遊べません。
 その点この Adaptoid + Adapt3 はアブストラクトの中でも少ないルール量と短時間な nestorgames だけあり、基本も拡張もそれぞれ1ページ程度のルール分量で、プレイ時間も30分以内に収まることが多いでしょう。
 
-ゲーム名だけおさらいすると、 Adaptoid の デラックス版が SuperAdaptoid(スーパーアダプトイド) で、Apdaptoid を3人専用にする拡張が Adapt3。Adapt3 のデラックス版が SuperAdapt3 です。Super 化してもルールに特段変更はないので BGG ではバージョン違いとして扱われているのですが、プレイアビリティと雰囲気が大きく変わるのと、公式サイトが 2021-12-10 現在無印の販売を終了している事からここでは敢えて Super 側を推しています。
+ゲーム名だけおさらいすると、 Adaptoid の デラックス版が SuperAdaptoid(スーパーアダプトイド) で、Apdaptoid を三人専用にする拡張が Adapt3。Adapt3 のデラックス版が SuperAdapt3 です。Super 化してもルールに特段変更はないので BGG ではバージョン違いとして扱われているのですが、プレイアビリティと雰囲気が大きく変わるのと、公式サイトが 2021-12-10 現在無印の販売を終了している事からここでは敢えて Super 側を推しています。
 
 つい先日、この SuperAdaptoid のファブリックボードバージョンが発表されました。[とてもいい感じのファブリック素材のよう](https://twitter.com/pecan7uts/status/1459920902846484485)だし、持ち運びが軽くて済みそうです。丁度共同購入[^3]する直前だったので迷ったのですが、素材が好きなのとモジュラーボード化出来るという利点から自分はアクリルボードの方を選びました。また[ヒカリゲームズ堺さんで、恐らく最後の土嚢版 Adaptoid が取り扱われている](https://twitter.com/svamura/status/1462135730243727360)ので携帯性を重視する方はこちらを選ぶのも手でしょう。しかし小さい爪脚の脱着はフラストレーションが溜まるのと、 Adapt3 は既に売り切れてしまったのが残念な点です。
 
