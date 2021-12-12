@@ -1,8 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: Home
+    url: https://pecan7uts.github.io
+
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
   - title: BGG
@@ -11,14 +14,8 @@ navbar_entries:
   - title: ボドゲーマ
     url: https://bodoge.hoobby.net/friends/24856
 
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/pecan7uts
-
-  - title: github
-    url: https://github.com/pecan7uts
-
-  - title: Home
-    url: https://pecan7uts.github.io
 
 project_entries:
   - title: 2021年時点のお気に入りTop15
@@ -27,7 +24,7 @@ project_entries:
     highlight: NEW
 
   - title: 2021 年に初プレイして楽しかった多人数アブストラクトゲーム「スピニマックス」「ビラボング」「スーパーアダプト3」 の紹介
-    url: http://pecan7uts.github.io/multiplayer-abstract-strategy-games-played-in-2021.html
+    url: multiplayer-abstract-strategy-games-played-in-2021
     desc: アドベントカレンダーとして書きました
     highlight: NEW
 
@@ -46,17 +43,20 @@ footer_entries:
   - title: Home
     url: https://pecan7uts.github.io
 
+  - title: About
+    url: about
+
+  - title: Blog
+    url: blog
+
   - title: BGG
     url: https://boardgamegeek.com/user/pecan
 
   - title: ボドゲーマ
     url: https://bodoge.hoobby.net/friends/24856
 
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/pecan7uts
-
-  - title: github
-    url: https://github.com/pecan7uts
 
   - title: feed
     url: feed.xml
