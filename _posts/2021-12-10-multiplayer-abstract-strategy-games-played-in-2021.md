@@ -93,7 +93,7 @@ title: 2021 年に初プレイして楽しかった多人数アブストラク�
 
 # SuperAdapt3(スーパーアダプト3)
 
-[BGG](https://boardgamegeek.com/boardgame/464/billabong)
+[BGG](https://boardgamegeek.com/boardgame/51195/adaptoid)
 
 推しポイント
 
