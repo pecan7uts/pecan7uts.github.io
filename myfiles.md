@@ -93,7 +93,7 @@ title: ボードゲームのルール和訳とかサマリー
     * [サマリー Markdown](https://gist.github.com/pecan7uts/e9419839ee5cfb908424)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205799/spectral-rails-japanese-summary)
 * [Age of Industry(産業の時代)](https://boardgamegeek.com/boardgame/65901/age-industry) - Martin Wallace - バーミンガムとかが出る前の、ブラスのリメイクです。ブラスで特徴的だった借金や2時代制を簡略化しています
-    * [サマリー Markdown](https://gist.github.com/pecan7uts/f0730ff324813cdc5d1c)
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/e171abbf2c947177da0b)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205757/age-industry-japanese-summary)
 * [Sardines(サーディンズ)](https://boardgamegeek.com/boardgame/27071/sardines) - 作者不明 - メモリーゲームです
     * [ルール和訳 PDF](https://boardgamegeek.com/filepage/164644/japanese-translation-rules)
