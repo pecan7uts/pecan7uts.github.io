@@ -1,12 +1,15 @@
 navbar_entries:
   - title: Home
-    url: https://pecan7uts.github.io
+    url: /
 
   - title: About
-    url: about
+    url: /about
+
+  - title: Files
+    url: /myfiles
 
   - title: Blog
-    url: blog
+    url: /blog
 
   - title: BGG
     url: https://boardgamegeek.com/user/pecan
@@ -19,43 +22,11 @@ navbar_entries:
 
 project_entries:
   - title: 2021 年に初プレイして楽しかった多人数アブストラクトゲーム「スピニマックス」「ビラボング」「スーパーアダプト3」 の紹介
-    url: 2021/12/10/multiplayer-abstract-strategy-games-played-in-2021.html
-    desc: アドベントカレンダーとして書きました
+    url: /2021/12/10/multiplayer-abstract-strategy-games-played-in-2021
+    desc: アドベントカレンダーの一つとして書きました
     highlight: NEW
 
-  - title: 自作の和訳やサマリーへのリンク集
+  - title: 和訳やサマリー
     url: myfiles
     highlight: WIP
-
-  - title: BGGにアップロードしたファイル
-    url: https://boardgamegeek.com/files/boardgame/all?username=pecan
-
-old_project_entries:
-  - title: 和訳やサマリー集(未整理)
-    url: https://gist.github.com/pecan7uts
-  - title: 各年末時点でのお気に入りゲーム変遷
-    url: myfavoritegames-onehundred-history
-    desc: 日本版 onehundred への投票ログです
-
-footer_entries:
-  - title: Home
-    url: https://pecan7uts.github.io
-
-  - title: About
-    url: about
-
-  - title: Blog
-    url: blog
-
-  - title: BGG
-    url: https://boardgamegeek.com/user/pecan
-
-  - title: ボドゲーマ
-    url: https://bodoge.hoobby.net/friends/24856
-
-  - title: Twitter
-    url: https://twitter.com/pecan7uts
-
-  - title: feed
-    url: feed.xml
-
+    desc: テキストだけの物が多いです

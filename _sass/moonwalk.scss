@@ -178,7 +178,7 @@ p code, li code {
   font-weight: bold;
 }
 .post-title {
-  margin-bottom:-1.5rem;
+  margin-bottom:2rem;
 }
 .project-title {
   margin-bottom: 0.8rem;
@@ -186,7 +186,7 @@ p code, li code {
 .credits {
   font-size: 0.8em;
   color: var(--text);
-  margin: 8em auto -4em auto;
+  margin: 1em auto -4em auto;
   text-align: center;
   a {
     color: var(--text);
@@ -196,4 +196,12 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+
+footer {
+  margin-top: 2em;
+}
+
+.soopr-btn {
+  margin-top: 2em;
 }

@@ -13,11 +13,17 @@
         {% if site.theme_config.appearance_toggle %}
           {% include toggle_theme_button.html %}
         {% endif %}
-        <div class="credits">
-          {%- if site.theme_config.show_copyright == true -%}
-          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
-          {%- endif -%}
-        </div>
+        {% if site.theme_config.show_footer == true %}
+          <footer>
+            <div class="dashed"></div>
+            {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+            <div class="credits">
+              {%- if site.theme_config.show_copyright == true -%}
+              &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
+              {%- endif -%}
+            </div>
+          </footer>
+        {% endif %}
       </div>
     </main>
 

@@ -86,3 +86,8 @@ title: ボードゲームのルール和訳とかサマリー
 
 * [Power Grid: The First Sparks(最初の火花)](https://boardgamegeek.com/boardgame/106662/power-grid-first-sparks) - Friedemann Friese
     * [サマリー Markdown](https://gist.github.com/pecan7uts/905c0e42fe7db579d7c9)
+
+ここにまとめてきれていないものが以下に残っているかもしれません。
+
+* [BGGへのアップロード済みファイル一覧](https://boardgamegeek.com/files/boardgame/all?username=pecan)
+* [未整理の Markdown](https://gist.github.com/pecan7uts)
