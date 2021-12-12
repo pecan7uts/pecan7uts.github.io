@@ -1,12 +1,12 @@
-title: Favorite Tabletop games
+title: My Notes for Tabletop Games
 author: pecan7uts
 url: https://pecan7uts.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  ボードゲーム関連のファイルやリンク
+  ボードゲーム関連のメモやファイル置き場です
 
 permalink: date
 
-favicon: "favicon.png" # relative path to site's favicon
+favicon: "./favicon.png" # relative path to site's favicon
 
 twitter:
     username: pecan7uts # update or delete this
