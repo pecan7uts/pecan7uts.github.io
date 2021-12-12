@@ -14,6 +14,8 @@ title: ボードゲームのルール和訳とかサマリー
 * [Dia Bruecken von Shangrila(シャングリラの橋)](https://boardgamegeek.com/boardgame/8190/bridges-shangri-la) - Leo Colovini - 作者はアブストラクト感の強いゲームを多く作っていますが、実際に運要素の全く無いこのようなゲームは珍しい気がします。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/c99773aee29878372e3aea84757615ee)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205663/japanese-summary)
+* [Wongar(ボンガル)](https://boardgamegeek.com/boardgame/566/wongar) - Richard Borg, Alan R. Moon - 3種類のコマを使ったエリアマジョリティをします。殴り合いの大丈夫な方にはお勧めできます。
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205739/wongar-aid-graphics-japanesepdf)
 * [Master of Economy(経済の達人)](https://boardgamegeek.com/boardgame/75441/master-economy) - Andrzej Kurek - 株に加えて国富論の様な拡大再生産まであるのですが、横領のインパクトは強いですね。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/de7618e028dfd35de47d1ec0c7ecaf86)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205749/master-economy-japanese-summaryy)
@@ -48,12 +50,39 @@ title: ボードゲームのルール和訳とかサマリー
     * [サマリー Markdown](https://gist.github.com/pecan7uts/4949c31122a79564cb07)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205797/kreta-japanese-summary)
     * [カード一覧 PDF](https://boardgamegeek.com/filepage/205807/kreta-japanese-card-summary)
+* [Ground Floor(グランドフロア)](https://boardgamegeek.com/boardgame/38765/ground-floor) - David Short - 会社経営の雰囲気抜群なワーカープレイスメントの初版です。
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/706ccb54cbb9c6ff76ed)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205748/ground-floor-japanese-summary)
 * [Dominant Species(ドミナント スピーシーズ/優占種)](https://boardgamegeek.com/boardgame/62219/dominant-species) - Chad Jensen - 長すぎると感じたりテキストベースの派手なカード効果が性に合わない人向けのヴァリアントが BGG に上がっています。
     * [カード効果を無くす公式(作者提案)ヴァリアントの抄訳(意訳) Markdown](https://gist.github.com/pecan7uts/dd84c0b8d9ecd28096e4)
     * [カード効果を無くす公式(作者提案)ヴァリアントの抄訳(意訳) PDF](https://boardgamegeek.com/filepage/205798/dominant-species)
+* [Taluva(タルバ)](https://boardgamegeek.com/boardgame/24508/taluva) - Marcel-André Casasola Merkle - 雰囲気抜群のタイルプレイスメントです。少人数でプレイする際はタイル使い切りヴァリアントの採用がお勧めです。
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/6ffc253edee1bca1d2dc)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205758/taluva-japanese-summary)
+* [Wind River(ウインドリバー)](https://boardgamegeek.com/boardgame/38904/wind-river) - Dirk Liekens - リソースマネジメントが必要な多人数アブストラクトです。
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/278c079adc8139d8bdc8)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205665/japanese-summary)
+* [Serenissima(セレニッシマ) (Second Edition)](https://boardgamegeek.com/boardgame/135281/serenissima-second-edition) - Dominique Ehrhard - ダイスを使った古めかしい戦闘以外はかなり洗練された雰囲気のゲームです。
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/b92696c7260581f03496)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205783/serenissima-second-edition-japanese-summary)
+* [Olympos(オリンポス)](https://boardgamegeek.com/boardgame/92319/olympos) - Philippe Keyaerts - ヴィンチ/スモールワールド の作者が作った、テーベ的な手番順の陣取りゲームです
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/96123cbe894a69277771)
+* [Merchants/Handelsfürsten: Herren der Meere(交易王)](https://boardgamegeek.com/boardgame/32114/merchants) - Reiner Knizia
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/440bb1adabf9bcecbbaf)
 * [Spectral Rails(西部幽霊鉄道)](https://boardgamegeek.com/boardgame/21469/spectral-rails) - Morgan Dontanville
     * [サマリー Markdown](https://gist.github.com/pecan7uts/e9419839ee5cfb908424)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205799/spectral-rails-japanese-summary)
-* [Toledo(トレド)](https://boardgamegeek.com/boardgame/34599/toledo) - Martin Wallace
+* [Age of Industry(産業の時代)](https://boardgamegeek.com/boardgame/65901/age-industry) - Martin Wallace - バーミンガムとかが出る前の、ブラスのリメイクです。ブラスで特徴的だった借金や2時代制を簡略化しています。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/f0730ff324813cdc5d1c)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205755/toledo-japanese-summary)
+* [Industria(インダストリア)](https://boardgamegeek.com/boardgame/8124/industria) - Michael Schacht
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/ad96c55c8148e6a25eda)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205790/industria-japanese-summary)
+* [A conclave of wyrms(竜の議会) ](https://boardgamegeek.com/boardgame/40236/conclave-wyrms) - Daniel Blodgett
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/593409b77aa27d46822c)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205785/conclave-wyrms-japanese-summary)
+
+以下は作成中だったりとチープさが際立つファイルです。
+
+* [Power Grid: The First Sparks(最初の火花)](https://boardgamegeek.com/boardgame/106662/power-grid-first-sparks) - Friedemann Friese
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/905c0e42fe7db579d7c9)
