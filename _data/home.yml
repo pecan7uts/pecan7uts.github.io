@@ -18,26 +18,23 @@ navbar_entries:
     url: https://twitter.com/pecan7uts
 
 project_entries:
-  - title: 2021年時点のお気に入りTop15
-    url: https://gist.github.com/pecan7uts/857358cfe660848e4f8a5455a2e281f4
-    desc: 日本版 onehundred
-    highlight: NEW
-
   - title: 2021 年に初プレイして楽しかった多人数アブストラクトゲーム「スピニマックス」「ビラボング」「スーパーアダプト3」 の紹介
     url: 2020/12/10/multiplayer-abstract-strategy-games-played-in-2021.html
     desc: アドベントカレンダーとして書きました
     highlight: NEW
 
-  - title: 和訳やサマリー集(未整理)
-    url: https://gist.github.com/pecan7uts
+  - title: 自作の和訳やサマリーへのリンク集
+    url: myfiles
 
   - title: BGGにアップロードしたファイル
     url: https://boardgamegeek.com/files/boardgame/all?username=pecan
 
 old_project_entries:
-  - title: 2020年時点のお気に入りTop15
-    url: https://gist.github.com/pecan7uts/cc915be8196c46740e0db7d6ef95626d
-    desc: 日本版 onehundred
+  - title: 和訳やサマリー集(未整理)
+    url: https://gist.github.com/pecan7uts
+  - title: 各年末時点でのお気に入りゲーム変遷
+    url: myfavoritegames-onehundred-history
+    desc: 日本版 onehundred への投票ログです
 
 footer_entries:
   - title: Home
