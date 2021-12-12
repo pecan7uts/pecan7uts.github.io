@@ -3,7 +3,7 @@ layout: post
 title: ボードゲームのルール和訳とかサマリー
 ---
 
-既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。
+既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです。
 
 * [Carolus Magnus/Carolvs Magnvs(カール大帝)](https://boardgamegeek.com/boardgame/481/carolus-magnus) - Leo Colovini - リメイクの [Eliantys](https://boardgamegeek.com/boardgame/341286/eriantys) では[このヴァリアントか、それに近いものが採用された](https://boardgamegeek.com/thread/2694621/summary-differences-carolus-magnus)ようです
     * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/dd84c0b8d9ecd28096e4)
@@ -62,6 +62,11 @@ title: ボードゲームのルール和訳とかサマリー
 * [Wind River(ウインドリバー)](https://boardgamegeek.com/boardgame/38904/wind-river) - Dirk Liekens - リソースマネジメントが必要な多人数アブストラクトです。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/278c079adc8139d8bdc8)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205665/japanese-summary)
+* [ジジニャーゴ ネコとネズミのチューレース](https://boardgamegeek.com/boardgame/189098/jiji-nyago) - 山田 空太 - 枯山水が有名な作者の、ロイヤルターフ & ストーンエイジ インスパイアです
+    * [サマリー GoogleDocument](https://docs.google.com/document/d/1kROBCtirrzsjBzRFOOteC1aFaO2xJxMX0_NjfsDs6-w/edit?usp=sharing)
+* [Ablaze!(アブレイズ！)/Feurio!(山火事)](https://boardgamegeek.com/boardgame/65516/ablaze) - Heinrich Glumpler
+    * [公式ヴァリアントの一つ「Firebreak(防火線)」の抄訳 Markdown](https://gist.github.com/pecan7uts/34e489171f2fee9ea935)
+    * [公式ヴァリアントの一つ「Firebreak(防火線)」の抄訳 PDF](https://boardgamegeek.com/filepage/205804/ablazefeuriofirebreak)
 * [Serenissima(セレニッシマ) (Second Edition)](https://boardgamegeek.com/boardgame/135281/serenissima-second-edition) - Dominique Ehrhard - ダイスを使った古めかしい戦闘以外はかなり洗練された雰囲気のゲームです。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/b92696c7260581f03496)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205783/serenissima-second-edition-japanese-summary)
@@ -69,15 +74,41 @@ title: ボードゲームのルール和訳とかサマリー
     * [サマリー Markdown](https://gist.github.com/pecan7uts/96123cbe894a69277771)
 * [Merchants/Handelsfürsten: Herren der Meere(交易王)](https://boardgamegeek.com/boardgame/32114/merchants) - Reiner Knizia
     * [サマリー Markdown](https://gist.github.com/pecan7uts/440bb1adabf9bcecbbaf)
+* [Urland(ウルランド)](https://boardgamegeek.com/boardgame/2539/urland) - Doris Matthäus, Frank Nestel - 原始スープの続編的雰囲気が強いですが、システムは全くの別物でバッティング系のエリアマジョリティです。
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/601ec11ed527937fccf0)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205786/urland-japanese-summary)
+* [Famiglia(ファミリア)](https://boardgamegeek.com/boardgame/81453/famiglia) - Friedemann Friese - テキストが全くない2人専用のデッキ構築ゲームです
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/a37318d5dae75f06054b)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205781/famiglia-japanese-summary)
+* [Cash or Crash(キャッシュオアクラッシュ)](https://boardgamegeek.com/boardgame/136528/cash-or-crash) - Alex Weldon - 知名度が低いと思いますが、ゆるめのブラフゲームとして好きです
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/a82658930de67a41ea29)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205784/cash-or-crash-japanese-summary)
+* [Shitenno(四天王)](https://boardgamegeek.com/boardgame/102610/shitenno) - パット見重そうですが、ケーキ切り分け系のゲームです
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/763f6f7473572e81d14a)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205782/shitenno-japanese-summary)
+* [Legacy: Gears of Time(レガシー: 時の歯車)](https://boardgamegeek.com/boardgame/119781/legacy-gears-time) - Ben Harkins - タイムトラベルを取り扱ったゲームでは今のところ一番好きかもしれません
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/2131875233c440d9aa1b)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205791/legacy-gears-time-japanese-summary)
 * [Spectral Rails(西部幽霊鉄道)](https://boardgamegeek.com/boardgame/21469/spectral-rails) - Morgan Dontanville
     * [サマリー Markdown](https://gist.github.com/pecan7uts/e9419839ee5cfb908424)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205799/spectral-rails-japanese-summary)
 * [Age of Industry(産業の時代)](https://boardgamegeek.com/boardgame/65901/age-industry) - Martin Wallace - バーミンガムとかが出る前の、ブラスのリメイクです。ブラスで特徴的だった借金や2時代制を簡略化しています。
     * [サマリー Markdown](https://gist.github.com/pecan7uts/f0730ff324813cdc5d1c)
-    * [サマリー PDF](https://boardgamegeek.com/filepage/205755/toledo-japanese-summary)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205757/age-industry-japanese-summary)
+* [Sardines(サーディンズ)](https://boardgamegeek.com/boardgame/27071/sardines) - 作者不明 - メモリーゲームです
+    * [ルール和訳 PDF](https://boardgamegeek.com/filepage/164644/japanese-translation-rules)
 * [Industria(インダストリア)](https://boardgamegeek.com/boardgame/8124/industria) - Michael Schacht
     * [サマリー Markdown](https://gist.github.com/pecan7uts/ad96c55c8148e6a25eda)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205790/industria-japanese-summary)
+* [Piranha Pedro(ピラニアペドロ)](https://boardgamegeek.com/boardgame/14035/piranha-pedro) - Wesly Gibs, Jens-Peter Schliemann
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/b6c813993080fa7661e3)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205787/piranha-pedro-japanese-summary)
+* [Oddville(オドヴィル：奇妙な村)](https://boardgamegeek.com/boardgame/123219/oddville) - Carlo Lavezzi
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/29cd771334ad634de640)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205788/oddville-japanese-summary)
+* [Lokus(トイレ)](https://boardgamegeek.com/boardgame/116124/lokus) - Reinhard Staupe
+    * [サマリー Markdown](https://gist.github.com/pecan7uts/700bca974acbaca4877d)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/205805/lokus-japanese-summary)
 * [A conclave of wyrms(竜の議会) ](https://boardgamegeek.com/boardgame/40236/conclave-wyrms) - Daniel Blodgett
     * [サマリー Markdown](https://gist.github.com/pecan7uts/593409b77aa27d46822c)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205785/conclave-wyrms-japanese-summary)
@@ -86,6 +117,8 @@ title: ボードゲームのルール和訳とかサマリー
 
 * [Power Grid: The First Sparks(最初の火花)](https://boardgamegeek.com/boardgame/106662/power-grid-first-sparks) - Friedemann Friese
     * [サマリー Markdown](https://gist.github.com/pecan7uts/905c0e42fe7db579d7c9)
+* [Wealth of Nations(国富論/ウェルス・オブ・ネイションズ)](https://boardgamegeek.com/boardgame/32666/wealth-nations) - Nico Carroll
+    * [v2でのルール変更点チェックリスト Markdown](https://gist.github.com/pecan7uts/2da05f06225d35e5657a)
 
 ここにまとめてきれていないものが以下に残っているかもしれません。
 
