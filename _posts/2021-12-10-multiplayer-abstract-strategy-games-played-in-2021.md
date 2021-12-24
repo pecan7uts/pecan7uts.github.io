@@ -11,7 +11,7 @@ tags: AbstractStrategy Review Recommend
 昨年から土嚢の会等を通してアブストラクトゲーム熱が再燃し、今年は二人用ゲームのいわゆるサシゲーを例年の 20 倍は遊んでいた気がします。
 しかしこの記事では、敬遠されがちな多人数アブストラクトの方を中心に取り上げます。
 
-# 二人用アブストラクト vs 多人数アブストラクト
+## 二人用アブストラクト vs 多人数アブストラクト
 
 「アブストラクトゲーム」の解釈は色々あるみたいなのですが、ここでは「伏せられた情報が無くて、セットアップ以外の運要素が0」なゲームを指します。
 個人的にこのジャンルが好きでして、特に二人用のゲームと言えばまずアブストラクトが思い浮かびます。終始お互いを殴り合い続ける、場合によっては斬り合うような感覚は格別です。
@@ -33,7 +33,7 @@ tags: AbstractStrategy Review Recommend
 
 自分も多人数アブストラクトで好きな物は [Mexica(メキシカ)](https://boardgamegeek.com/boardgame/2955/mexica) 他数える程しか無かったのですが、今年は嬉しいことにお気に入りが幾つも増えました。
 
-# Spinimax(スピニマックス)
+## Spinimax(スピニマックス)
 
 [BGG](https://boardgamegeek.com/boardgame/116133/spinimax)
 
@@ -69,8 +69,7 @@ tags: AbstractStrategy Review Recommend
 
 渋は nestorgames の中でも比較的入手しやすい部類のゲームだったのですが、2021 年の土嚢系撤退に伴い通常の版が公式での販売リストから無くなり、今はデラックス版の取り扱いも無いのが残念です。
 
-
-# Billabong(ビラボング)
+## Billabong(ビラボング)
 
 [BGG](https://boardgamegeek.com/boardgame/464/billabong)
 
@@ -96,7 +95,7 @@ tags: AbstractStrategy Review Recommend
 連続ジャンプで全コマを目的地へ到達させるというのは[Chinese Checkers(チャイニーズチェッカー/ダイヤモンドゲーム)](https://boardgamegeek.com/boardgame/2386/chinese-checkers)に似ているという感想を聞いてナルホドと思いました。そこへ加わった遠距離全方向ジャンプとカンガルーテーマがマッチして、多人数アブストラクトとしてもレースゲームとしても、トップクラスに好きなゲームになりました。
 初版だと四人までのゲームだったのですが、最近のリメイクでは五人まで対応になっています。自分は三人と四人でしかプレイしていないのですが、四人ぐらいが賑やかさとダウンタイムの兼ね合いで丁度良いのでは無いかなと。ただ二人プレイは読める範囲が広がる分別の面白さがありそうなので、どこかで試してみたいです。
 
-# SuperAdapt3(スーパーアダプト3)
+## SuperAdapt3(スーパーアダプト3)
 
 [BGG](https://boardgamegeek.com/boardgame/51195/adaptoid)
 
@@ -141,7 +140,7 @@ Adaptoid のルールで特徴的なのは、なんといっても呼吸判定�
 
 この SuperAdaptoid/SuperAdapt3 は別に最近のゲームというわけでもないのですが、なんと[別のアドベントカレンダー側で同日に紹介された](https://note.com/ats0101/n/nb3a7d93a64aa#Ml79T)のには驚きました。他のアドベントカレンダーに誘導するのはちょっと抵抗がありますが、日本の nestorgames 愛好家の9割がお世話になっているであろう和訳神 [ats](https://twitter.com/ats0101) さんの記事で、ここに紹介されている [Omega(オメガ)](https://boardgamegeek.com/boardgame/81588/omega) も大好きな多人数アブストラクトです。
 
-# まとめ
+## まとめ
 
 多人数アブストラクトでネックになりがちなキングメイカー問題が、ここで紹介した3ゲームだとそれぞれ別の理由から軽減されています。
 
