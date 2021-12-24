@@ -6,6 +6,14 @@ tags: Translation Rule
 
 テキストだけの物が多いです。既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
 
+* [Blox(ブロエックス)](https://boardgamegeek.com/boardgame/34227/blox) - Jürgen P. Grunau, Wolfgang Kramer, Hans Raggan - ハンドマネジメントが入っている為運の比重は強めながら、アブストラクト感の強いゲームです
+    * [サマリー Google Document](https://docs.google.com/document/d/1IM2YqjjdG_s_p94DHY1Hr051egs7PKDkpvC3cM-Izo4/edit?usp=sharing)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/232821/blox-japanese-summary)
+* [Holi: Festival of Colors(ホリ：フェスティバル・オブ・カラーズ)](https://boardgamegeek.com/boardgame/295957/holi-festival-colors) - Julio E. Nazario - 上階から絵の具の落ちてくる処理が面白いゲームです。少ないルール分量に見えて例外処理やライバルカードの解釈に難航する所が多かったため、BGGフォーラムへのリンクを多めに貼っています。
+    * [ライバルカード日本語訳 Google Document](https://docs.google.com/document/d/1M2EUq093LnDFds_wHW3EnCVxWHqWNC-evGZkjGHJYtg/edit?usp=sharing)
+    * [ライバルカード日本語訳 PDF](https://boardgamegeek.com/filepage/232905/holi-festival-colors-japanese-translations-rivalry)
+    * [サマリー Google Document](https://docs.google.com/document/d/1yS8HyUVLSWTTQ0veuvsS3s0KZ5FwGOgTjlQbuP5yFGk/edit?usp=sharing)
+    * [サマリー PDF](https://boardgamegeek.com/filepage/232755/holi-festival-colors-japanese-summary)
 * [Carolus Magnus/Carolvs Magnvs(カール大帝)](https://boardgamegeek.com/boardgame/481/carolus-magnus) - Leo Colovini - リメイクの [Eliantys](https://boardgamegeek.com/boardgame/341286/eriantys) では[このヴァリアントか、それに近いものが採用された](https://boardgamegeek.com/thread/2694621/summary-differences-carolus-magnus)ようです
     * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/b0fd72faaf5a507d3a32)
     * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 PDF](https://boardgamegeek.com/filepage/205800/carolus-magnuscarolvs-magnvs)
@@ -64,7 +72,7 @@ tags: Translation Rule
     * [サマリー Markdown](https://gist.github.com/pecan7uts/278c079adc8139d8bdc8)
     * [サマリー PDF](https://boardgamegeek.com/filepage/205665/japanese-summary)
 * [ジジニャーゴ ネコとネズミのチューレース](https://boardgamegeek.com/boardgame/189098/jiji-nyago) - 山田 空太 - 枯山水が有名な作者の、ロイヤルターフ & ストーンエイジ インスパイアです
-    * [サマリー GoogleDocument](https://docs.google.com/document/d/1kROBCtirrzsjBzRFOOteC1aFaO2xJxMX0_NjfsDs6-w/edit?usp=sharing)
+    * [サマリー Google Document](https://docs.google.com/document/d/1kROBCtirrzsjBzRFOOteC1aFaO2xJxMX0_NjfsDs6-w/edit?usp=sharing)
 * [Ablaze!(アブレイズ！)/Feurio!(山火事)](https://boardgamegeek.com/boardgame/65516/ablaze) - Heinrich Glumpler
     * [公式ヴァリアントの一つ「Firebreak(防火線)」の抄訳 Markdown](https://gist.github.com/pecan7uts/34e489171f2fee9ea935)
     * [公式ヴァリアントの一つ「Firebreak(防火線)」の抄訳 PDF](https://boardgamegeek.com/filepage/205804/ablazefeuriofirebreak)
