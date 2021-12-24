@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+image: images/avatar.png
 ---
 
 2005 年頃からいわゆるドイツゲームに触れる機会が出来て、2014 年頃から本格的にのめり込みだしました。

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 各年末時点でのお気に入りゲーム変遷
+image: images/avatar.png
 ---
 
 * [2021](https://gist.github.com/pecan7uts/857358cfe660848e4f8a5455a2e281f4)
