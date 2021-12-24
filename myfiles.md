@@ -7,7 +7,7 @@ tags: Translation Rule
 テキストだけの物が多いです。既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
 
 * [Carolus Magnus/Carolvs Magnvs(カール大帝)](https://boardgamegeek.com/boardgame/481/carolus-magnus) - Leo Colovini - リメイクの [Eliantys](https://boardgamegeek.com/boardgame/341286/eriantys) では[このヴァリアントか、それに近いものが採用された](https://boardgamegeek.com/thread/2694621/summary-differences-carolus-magnus)ようです
-    * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/dd84c0b8d9ecd28096e4)
+    * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/b0fd72faaf5a507d3a32)
     * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 PDF](https://boardgamegeek.com/filepage/205800/carolus-magnuscarolvs-magnvs)
 * [Alexandros(アレクサンドロス)](https://boardgamegeek.com/boardgame/8273/alexandros) - Leo Colovini - エンクロージング陣取りとハンドマネジメントのゲームですが、全員を対象とするスコアリングしか出来ないのが特徴的です
     * [サマリー Markdown](https://gist.github.com/pecan7uts/16b5ef1b0d6a9bbe5c818a6cf53d5b14)
