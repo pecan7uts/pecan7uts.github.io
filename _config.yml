@@ -54,5 +54,3 @@ plugins:
 
 whitelist:
   - jekyll-redirect-from
-
-theme: moonwalk
