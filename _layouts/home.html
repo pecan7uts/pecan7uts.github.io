@@ -9,7 +9,7 @@ layout: default
   {% endif %}
 </header>
 
-{{ content }}
+{% include anchor_headings.html html=content anchorBody="#" %}
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>

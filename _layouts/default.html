@@ -9,7 +9,7 @@
     {%- endif -%}
     <main class="page-content" aria-label="Content">
       <div class="w">
-        {% include anchor-headings.html html=content %}
+        {% include anchor_headings.html html=content anchorBody="#" %}
         {% if site.theme_config.appearance_toggle %}
           {% include toggle_theme_button.html %}
         {% endif %}
