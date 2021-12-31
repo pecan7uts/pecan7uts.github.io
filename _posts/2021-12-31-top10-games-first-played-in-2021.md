@@ -27,14 +27,14 @@ tags: AbstractStrategy Review
 
 ![Billabong](/images/billabong-playing.png)
 
-紹介レビュー自体は {% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %} に書いたので省きますが、中でも一番に持ってきた理由は「多人数アブストラクトなのにギスギスしにくい」「ルール把握時点だとわからなかった面白さがある」「既に何度もプレイしているけど飽きていない」「アブストラクトをあんまり好きじゃ無い人相手でも出せる」「箱が小さい」等々、とにかく長所の多さからです。
+[レビューはこちら]({% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %})。一番に持ってきた理由は「多人数アブストラクトなのにギスギスしにくい」「ルール把握時点だとわからなかった面白さがある」「既に何度もプレイしているけど飽きていない」「アブストラクトをあんまり好きじゃ無い人相手でも出せる」「箱が小さい」等々、とにかく長所の多さからです。
 敢えて引っ掛かりを挙げるなら、終盤トップ目がほぼ確定で見えてる状態から15分ぐらいはゲームが続くところです。でもヴァリアント的な物を考えるにしてもボードを小さくしたら戦略が変わるだろうし一人当たりのコマ数減らすと大きくゲーム展開に影響する類だと思うので難しいですね。もし作者が今でも元気に活動していたら、リメイク時に何か鮮やかな解決策を入れてくれたのかなぁと想像してしまいます。
 
 ## 二位 - [SuperAdapt3(スーパーアダプト3)](https://boardgamegeek.com/boardgameexpansion/147611/adapt3) - 2013 - [Néstor Romeral Andrés](https://boardgamegeek.com/boardgamedesigner/9393/nestor-romeral-andres)
 
 ![SuperAdapt3](/images/superadaptoid_superadapt3.jpg)
 
-これも紹介レビュー自体は {% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %} に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) が2人用なのですがまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそう。
+これも[レビュー]({% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %})に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) が2人用なのですがまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそう。
 
 ## 三位 - [27](https://boardgamegeek.com/boardgame/235697/27) - 2017 - [Bernhard Kümmelmann](https://boardgamegeek.com/boardgameartist/12538/bernhard-kummelmann)
 
