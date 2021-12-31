@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021年に初めてプレイしたボードゲームから、お気に入り Top 10
+title: 2021年初プレイボードゲーム Top 10
 image: images/og-2021-12-31-top10-games-first-played-in-2021.jpg
 description: 2021年初プレイのボードゲームから最上位陣を挙げてみました。出版が 2021年縛りというわけではないです。
 tags: AbstractStrategy Review
