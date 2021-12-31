@@ -55,7 +55,7 @@ tags: AbstractStrategy Review
 
 ![Duck](/images/duck-playing.png)
 
-ベースシステムは明らかにトランプの Yaniv(ヤニブ) だと思うのですが、出し切りでのサドンデス追加や、自分からのダックを狙えない場合でも全体を低く抑えたうえで1枚だけ大きなカードが欲しいところ等見事にリファインされています。パッケージのアヒルだけ見たときはあまり食指が動く感じでは無かったのですが、飽きずに繰り返し遊べるお気に入りの小箱です。
+ベースシステムは明らかにトランプの [Yaniv(ヤニブ)](https://boardgamegeek.com/boardgame/88900/yaniv) だと思うのですが、出し切りでのサドンデス追加や、自分からのダックを狙えない場合でも全体を低く抑えたうえで1枚だけ大きなカードが欲しいところ等見事にリファインされています。パッケージのアヒルだけ見たときはあまり食指が動く感じでは無かったのですが、飽きずに繰り返し遊べるお気に入りの小箱です。
 
 ## 六位 - [Jekyll vs. Hyde(ジキルvsハイド)](https://boardgamegeek.com/boardgame/297129/jekyll-vs-hyde) - 2021 - [Geonil](https://boardgamegeek.com/boardgamedesigner/123285/geonil)
 
