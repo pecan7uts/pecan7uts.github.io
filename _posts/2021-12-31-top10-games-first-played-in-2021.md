@@ -42,7 +42,7 @@ tags: AbstractStrategy Review
 
 作者は今年 [Block Ness(おじゃまっシー)](https://boardgamegeek.com/boardgame/328624/block-ness) がテンデイズから出て話題になった方です。過去作で有名なのは [Loony Quest(ルーニークエスト)](https://boardgamegeek.com/boardgame/136991/loony-quest) でしょうか。僕は [Pix(ピックス)](https://boardgamegeek.com/boardgame/67181/pix) が好きなのですが、これらが同じ作者だとは最近まで知りませんでした。
 
-手番には自分のスタックの1つを、自分のスタック数分動かし、相手の陣地へ一番多く積み上げた方の勝ちです。初手は一直線上に並べられた一つのスタックから一歩動かすしか無いので、これはゲームになっているのだろうかと最初思ったのですが、どこで分割するかに考えどころがあります。移動力は必ずピッタリ使い切らないといけないため、スタックを増やしすぎると一個もゴール出来ない可能性すら出てきます。これを逆用し、自分のスタック分割時敢えて過去に確保した相手のスタックを復活させる事で目算を狂わせる事が出来たりと実は結構考えどころのあるゲームです。スタックや捕獲系要素の有るゲームでは、得てして積めば積む程取れば取るほど強くなるような、優勢な方がそのまま優勢を拡大していくというゲームになりがちなのですが、個人的にこのようなジレンマの含まれるゲームが好きです。
+手番には自分のスタックの1つから好きなだけ上から取った分を、自分のスタック数分前進させ、最終的に相手の陣地へ一番多く積み上げた方の勝ちです。初手は一直線上に並べられた一つのスタックを一歩動かすしか無いので、これはゲームになっているのだろうかと最初思ったのですが、相手の分割数選択次第での2手目以降に考えどころがあります。移動力は必ずピッタリ使い切らないといけないため、スタックを増やしすぎると一個もゴール出来ない可能性すら出てきます。これを逆用し、自分のスタック分割時敢えて過去に確保した相手のスタックを復活させる事で目算を狂わせる事が出来たりと実は結構考えどころのあるゲームです。スタックや捕獲系要素の有るゲームでは、得てして積めば積む程取れば取るほど強くなるような、優勢な方がそのまま優勢を拡大していくというゲームになりがちなのですが、個人的にこのようなジレンマの含まれるゲームが好きです。
 灰色コマや赤コマも移動可能対象にするという上級ルールではまだ遊べていないので、こちらも楽しみですね。
 
 ## 四位 - [Mandala(マンダラ)](https://boardgamegeek.com/boardgame/264241/mandala) - 2019 - [Trevor Benjamin](https://boardgamegeek.com/boardgamedesigner/90410/trevor-benjamin), [Brett J. Gilbert](https://boardgamegeek.com/boardgamedesigner/56058/brett-j-gilbert)
@@ -104,5 +104,5 @@ tags: AbstractStrategy Review
 
 ## まとめ
 
-10個に収める為落とさざるを得なかったのですが Kamisado(カミサド)、Watergate(ウォーターゲート)、Dominant Species: Marine(ドミナント・スピーシーズ：マリン) 辺りもここに入れたかったです。Origins: First Builders(オリジンズ：ファーストビルダーズ)、Boonlake(ブーンレイク)、Zapotec(サポテカ) 等の話題作も遊ばせて貰ったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
+10個に収める為落とさざるを得なかったのですが [Kamisado(カミサド)](https://boardgamegeek.com/boardgame/38545/kamisado)、[Watergate(ウォーターゲート)](https://boardgamegeek.com/boardgame/274364/watergate)、[Dominant Species: Marine(ドミナント・スピーシーズ：マリン)](https://boardgamegeek.com/boardgame/262941/dominant-species-marine) 辺りもここに入れたかったです。[Origins: First Builders(オリジンズ：ファーストビルダーズ)](https://boardgamegeek.com/boardgame/322588/origins-first-builders)、[Boonlake(ブーンレイク)](https://boardgamegeek.com/boardgame/343905/boonlake)、[Zapotec(サポテカ)](https://boardgamegeek.com/boardgame/322589/zapotec) 等の話題作も遊ばせて貰ったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
 一緒に遊んで下さった方々有難うございました。また来年もよろしくお願いします。
