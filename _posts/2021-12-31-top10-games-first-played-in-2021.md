@@ -49,7 +49,7 @@ tags: AbstractStrategy Review
 
 ![Mandala](https://cf.geekdo-images.com/iZZ2sA_HnR-Riw29PVy9Cg__imagepagezoom/img/kqNqrlOnVgDtta_9Rdu__jAWeS0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5659199.jpg)
 
-単独では [Divinare(ディヴィナーレ～倫敦の霊媒師)](https://boardgamegeek.com/boardgame/118418/divinare) や、今年話題になった [Spy Connection(スパイ・コネクション)](https://boardgamegeek.com/boardgame/300148/spy-connection)、同タッグの共作では同年の [Maya(マヤ)](https://boardgamegeek.com/boardgame/287116/maya) や、今年の [Great Plains(グレートプレインズ)](https://boardgamegeek.com/boardgame/330036/great-plains) といった、ルールのシンプルな人気作を作っている作者です。中でもこのマンダラは「テキスト等の無いアブストラクトチックなゲーム」で、「強弱ではなくランダム性の為の運要素」があり、「リシャッフル頻度が低く」「収束性が高く」「単にマジョリティで勝って枚数を沢山取れば良いわけでは無く、場所とタイミングが大事」「一見弱い手札からでも相手の手を縛ることが出来る」と好みの要素がビッシリ詰まっています。しっかりしたファブリックボードも良いですね。
+単独では [Divinare(ディヴィナーレ～倫敦の霊媒師)](https://boardgamegeek.com/boardgame/118418/divinare) や、今年話題になった [Spy Connection(スパイ・コネクション)](https://boardgamegeek.com/boardgame/300148/spy-connection)、同タッグの共作では同年の [Maya(マヤ)](https://boardgamegeek.com/boardgame/287116/maya) や、今年の [Great Plains(グレートプレインズ)](https://boardgamegeek.com/boardgame/330036/great-plains) といった、ルールのシンプルな人気作を作っている作者です。中でもこのマンダラは「テキスト等の無いアブストラクトチックなゲーム」で、「強弱ではなくランダム性の為の運要素」があり、「リシャッフル頻度が低く」「収束性が高く」「単にマジョリティで勝って枚数を沢山取れば良いわけでは無く、場所とタイミングが大事」「一見弱い手札からでも相手の手を縛ることが出来る」「スートの価値がプレイヤーに依って異なり、プレイ中に決まる」と好みの要素がビッシリ詰まっています。しっかりしたファブリックボードも良いですね。
 
 ## 五位 - [Duck(ダック)](https://boardgamegeek.com/boardgame/312463/duck) - 2020 - [Johannes Krenner](https://boardgamegeek.com/boardgamedesigner/42380/johannes-krenner)
 
