@@ -25,14 +25,14 @@ tags: AbstractStrategy Review
 
 ## 一位 - [Billabong(ビラボング)](https://boardgamegeek.com/boardgame/464/billabong) - 1992 - [Eric Solomon](https://boardgamegeek.com/boardgamedesigner/104/eric-solomon)
 
-![Billabong](images/billabong-playing.png)
+![Billabong](/images/billabong-playing.png)
 
 紹介レビュー自体は {% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %} に書いたので省きますが、中でも一番に持ってきた理由は「多人数アブストラクトなのにギスギスしにくい」「ルール把握時点だとわからなかった面白さがある」「既に何度もプレイしているけど飽きていない」「アブストラクトをあんまり好きじゃ無い人相手でも出せる」「箱が小さい」等々、とにかく長所の多さからです。
 敢えて引っ掛かりを挙げるなら、終盤トップ目がほぼ確定で見えてる状態から15分ぐらいはゲームが続くところです。でもヴァリアント的な物を考えるにしてもボードを小さくしたら戦略が変わるだろうし一人当たりのコマ数減らすと大きくゲーム展開に影響する類だと思うので難しいですね。もし作者が今でも元気に活動していたら、リメイク時に何か鮮やかな解決策を入れてくれたのかなぁと想像してしまいます。
 
 ## 二位 - [SuperAdapt3(スーパーアダプト3)](https://boardgamegeek.com/boardgameexpansion/147611/adapt3) - 2013 - [Néstor Romeral Andrés](https://boardgamegeek.com/boardgamedesigner/9393/nestor-romeral-andres)
 
-![SuperAdapt3](images/superadaptoid_superadapt3.jpg)
+![SuperAdapt3](/images/superadaptoid_superadapt3.jpg)
 
 これも紹介レビュー自体は {% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %} に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) が2人用なのですがまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそう。
 
@@ -53,7 +53,7 @@ tags: AbstractStrategy Review
 
 ## 五位 - [Duck(ダック)](https://boardgamegeek.com/boardgame/312463/duck) - 2020 - [Johannes Krenner](https://boardgamegeek.com/boardgamedesigner/42380/johannes-krenner)
 
-![Duck](images/duck-playing.png)
+![Duck](/images/duck-playing.png)
 
 ベースシステムは明らかにトランプの Yaniv(ヤニブ) だと思うのですが、出し切りでのサドンデス追加や、自分からのダックを狙えない場合でも全体を低く抑えたうえで1枚だけ大きなカードが欲しいところ等見事にリファインされています。パッケージのアヒルだけ見たときはあまり食指が動く感じでは無かったのですが、飽きずに繰り返し遊べるお気に入りの小箱です。
 
@@ -75,7 +75,7 @@ tags: AbstractStrategy Review
 
 ## 八位 - [Tortuga(トォルトゥーガ)](https://boardgamegeek.com/boardgame/27938/tortuga) - 2007 - [Vincent Everaert](https://boardgamegeek.com/boardgamedesigner/6083/vincent-everaert)
 
-![Tortuga](images/tortuga-playing.png)
+![Tortuga](/images/tortuga-playing.png)
 
 まだ遊べていないのですが、nestorgames から[Exxit(エクシット)](https://boardgamegeek.com/boardgame/22947/exxit) 等を出しているアブストラクト作家の方です。
 
@@ -86,7 +86,7 @@ tags: AbstractStrategy Review
 
 ## 九位 - [SHŌBU(勝負)](https://boardgamegeek.com/boardgame/272380/shbu) - 2019 - [Manolis Vranas](https://boardgamegeek.com/boardgamedesigner/115448/manolis-vranas), [Jamie Sajdak](https://boardgamegeek.com/boardgamedesigner/115449/jamie-sajdak)
 
-![SHŌBU](images/shobu-playing.png)
+![SHŌBU](/images/shobu-playing.png)
 
 一手が複数の事を決める系のゲームがここ数年の流行りだと思うのですが、アブストラクトでシステム上それを実現したのがこのゲームです。手番には2手行うのですが、攻撃できない防御主体の一手目の選択次第で、攻撃可能な二手目の選択肢が絞られます。
 難点というかを挙げると、自分は何回遊んでも操作できるボード(受けの移動)を間違えそうになるところです。一緒に遊んだ方から「人類には早すぎる」と言われたのですが、わからなくも無いなーと。
@@ -94,7 +94,7 @@ tags: AbstractStrategy Review
 
 ## 十位 - [Glaisher(グレーシャー)](https://boardgamegeek.com/boardgame/175363/glaisher) - 2015 - [Ken Shoda](https://boardgamegeek.com/boardgamedesigner/80474/ken-shoda)
 
-![Glaisher](images/glaisher-playing.png)
+![Glaisher](/images/glaisher-playing.png)
 
 作者はクニツィアマニアとしても土嚢の会というアブストラクトゲーム会の主催でも有名なけがわさん。自分は [Hex(ヘックス)](https://boardgamegeek.com/boardgame/4112/hex)、[Twixt(ツィクスト)](https://boardgamegeek.com/boardgame/949/twixt)、[PÜNCT(ピュンクト)](https://boardgamegeek.com/boardgame/19764/punct) 等の対辺を繋げる系と、スタッキング系のアブストラクトはあまりピンと来ない事が多いのですが、両方の要素を持つこのゲームには痺れました。
 
