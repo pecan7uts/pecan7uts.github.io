@@ -36,7 +36,7 @@ tags: AbstractStrategy Review
 
 これも[レビュー]({% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %})に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) が2人用なのですがまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそう。
 
-## 三位 - [27](https://boardgamegeek.com/boardgame/235697/27) - 2017 - [Bernhard Kümmelmann](https://boardgamegeek.com/boardgameartist/12538/bernhard-kummelmann)
+## 三位 - [27](https://boardgamegeek.com/boardgame/235697/27) - 2017 - [Laurent Escoffier](https://boardgamegeek.com/boardgamedesigner/3327/laurent-escoffier)
 
 ![27](https://cf.geekdo-images.com/FAYp6imSKGL0h4eHFB5QGQ__imagepagezoom/img/Ek8Acnut1eLAVmdyYa58IkLvxzA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3771125.jpg)
 
@@ -65,7 +65,7 @@ tags: AbstractStrategy Review
 ジキルとハイドのテーマを非対称な目標に置いたのが見事にマッチしていますね。ワイルドカードの扱いだけ急に複雑なルールと化しているところだけ残念です。
 出版社の [Mandoo Games](https://boardgamegeek.com/boardgamepublisher/30521/mandoo-games/linkeditems/boardgamepublisher) は韓国のパブリッシャーで、他に [Merchants of Dunhuang(敦煌の商人)](https://boardgamegeek.com/boardgame/283924/merchants-dunhuang) や [Castello Methoni(カステッロ・メトーニ)](https://boardgamegeek.com/boardgame/266141/castello-methoni) 等の佳作を出しています。どれもコンポーネントの配色が美しいですね。
 
-## 七位 - [Fire and Ice(ファイア＆アイス)](https://boardgamegeek.com/boardgame/4643/fire-and-ice) - 2002 - [Jens-Peter Schliemann](https://boardgamegeek.com/boardgame/4643/fire-and-ice)
+## 七位 - [Fire and Ice(ファイア＆アイス)](https://boardgamegeek.com/boardgame/4643/fire-and-ice) - 2002 - [Jens-Peter Schliemann](https://boardgamegeek.com/boardgamedesigner/1288/jens-peter-schliemann)
 
 ![Fire and Ice](https://cf.geekdo-images.com/mot94TwdT2xeW8RqPPzvIQ__imagepagezoom/img/2WAYAN7MJikLt37-JTdBdq2kWoE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic233971.jpg)
 
