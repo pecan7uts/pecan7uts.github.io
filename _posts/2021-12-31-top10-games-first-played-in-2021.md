@@ -34,7 +34,7 @@ tags: AbstractStrategy Review
 
 ![SuperAdapt3](/images/superadaptoid_superadapt3.jpg)
 
-これも[レビュー]({% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %})に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) が2人用なのですがまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそう。
+これも[レビュー]({% post_url 2021-12-10-multiplayer-abstract-strategy-games-played-in-2021 %})に書いています。セッションに依って面白さの爆発力はビラボングより上なのですが、やっぱりマルチなのでちょっと出しどころを選ぶなぁというのと、プレイ時間に対して箱が大きく価格が高く3人専用というところで迷った結果二位に留めました。基本の2人用 [SuperAdaptoid(スーパーアダプトイド)](https://boardgamegeek.com/boardgame/51195/adaptoid) をまだ遊べておらず、これも楽しければ対応人数的にそこまで狭く無いのかもしれません。メインディッシュとしてもフィラーとしても楽しめそうです。
 
 ## 三位 - [27](https://boardgamegeek.com/boardgame/235697/27) - 2017 - [Laurent Escoffier](https://boardgamegeek.com/boardgamedesigner/3327/laurent-escoffier)
 
@@ -42,8 +42,10 @@ tags: AbstractStrategy Review
 
 作者は今年 [Block Ness(おじゃまっシー)](https://boardgamegeek.com/boardgame/328624/block-ness) がテンデイズから出て話題になった方です。過去作で有名なのは [Loony Quest(ルーニークエスト)](https://boardgamegeek.com/boardgame/136991/loony-quest) でしょうか。僕は [Pix(ピックス)](https://boardgamegeek.com/boardgame/67181/pix) が好きなのですが、これらが同じ作者だとは最近まで知りませんでした。
 
-手番には自分のスタックの1つから好きなだけ上から取った分を、自分のスタック数分前進させ、最終的に相手の陣地へ一番多く積み上げた方の勝ちです。初手は一直線上に並べられた一つのスタックを一歩動かすしか無いので、これはゲームになっているのだろうかと最初思ったのですが、相手の分割数選択次第での2手目以降に考えどころがあります。移動力は必ずピッタリ使い切らないといけないため、スタックを増やしすぎると一個もゴール出来ない可能性すら出てきます。これを逆用し、自分のスタック分割時敢えて過去に確保した相手のスタックを復活させる事で目算を狂わせる事が出来たりと実は結構考えどころのあるゲームです。スタックや捕獲系要素の有るゲームでは、得てして積めば積む程取れば取るほど強くなるような、優勢な方がそのまま優勢を拡大していくというゲームになりがちなのですが、個人的にこのようなジレンマの含まれるゲームが好きです。
-灰色コマや赤コマも移動可能対象にするという上級ルールではまだ遊べていないので、こちらも楽しみですね。
+手番には自分のスタックの1つから好きなだけ上から取った分を、自分のスタック数分前進させ、最終的に相手の陣地へ一番多く積み上げた方の勝ちです。初手は一直線上に並べられた一つのスタックを一歩動かすしか無いので、これはゲームになっているのだろうかと最初思いました。しかし2手目以降に考えどころがあります。移動力は必ずピッタリ使い切らないといけないため、スタックを増やしすぎると一個もゴール出来ない可能性すら出てきます。これを逆用し、自分のスタック分割時敢えて過去に確保した相手のスタックを復活させる事で目算を狂わせる事が出来たりと実は結構考えどころのあるゲームです。
+
+スタックや捕獲系要素の有るゲームでは、得てして積めば積む程取れば取るほど強くなるような、優勢な方がそのまま優勢を拡大しがちです。ただ、自分は [Yinsh(インシュ)](https://boardgamegeek.com/boardgame/7854/yinsh), [DVONN(デュボン)](https://boardgamegeek.com/boardgame/2346/dvonn), Adaptoid, 27 の様な優勢側へシステム上の制限が加わわるゲームが好きです。
+灰色コマや赤コマも移動可能対象にするという上級ルールではまだ遊べていないので、こちらも楽しみです。
 
 ## 四位 - [Mandala(マンダラ)](https://boardgamegeek.com/boardgame/264241/mandala) - 2019 - [Trevor Benjamin](https://boardgamegeek.com/boardgamedesigner/90410/trevor-benjamin), [Brett J. Gilbert](https://boardgamegeek.com/boardgamedesigner/56058/brett-j-gilbert)
 
@@ -55,13 +57,13 @@ tags: AbstractStrategy Review
 
 ![Duck](/images/duck-playing.png)
 
-ベースシステムは明らかにトランプの [Yaniv(ヤニブ)](https://boardgamegeek.com/boardgame/88900/yaniv) だと思うのですが、出し切りでのサドンデス追加や、自分からのダックを狙えない場合でも全体を低く抑えたうえで1枚だけ大きなカードが欲しいところ等見事にリファインされています。パッケージのアヒルだけ見たときはあまり食指が動く感じでは無かったのですが、飽きずに繰り返し遊べるお気に入りの小箱です。
+ベースシステムは明らかにトランプの [Yaniv(ヤニブ)](https://boardgamegeek.com/boardgame/88900/yaniv) だと思うのですが、出し切りでのサドンデス追加や、自分からのダックを狙えない場合でも全体を低く抑えたうえで1枚だけ大きなカードが欲しいところ等見事にリファインされています。軽いプレイ感の中にダウンタイムを感じさせない工夫が散りばめられていて飽きずに繰り返し遊べるお気に入りの小箱です。
 
 ## 六位 - [Jekyll vs. Hyde(ジキルvsハイド)](https://boardgamegeek.com/boardgame/297129/jekyll-vs-hyde) - 2021 - [Geonil](https://boardgamegeek.com/boardgamedesigner/123285/geonil)
 
 ![Jekyll vs. Hyde](https://cf.geekdo-images.com/Kd18oVoW5L0wWtLCG4459g__imagepagezoom/img/oAV_fZaXB2YAxw8-6cDiqKnmNAY=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6461232.jpg)
 
-チーム戦のトリテに [Dr. Jekyll & Mr. Hyde(ジキルとハイド)](https://boardgamegeek.com/boardgame/686/dr-jekyll-mr-hyde) という物があるので混乱しそうですが、作者はこれがデビュー作。二人用トリックテイキングで面白い物というと入手の難しい [Beggars & Thieves(泥棒と乞食)](https://boardgamegeek.com/boardgame/10906/beggars-and-thieves) が有名ですが、また一つ傑作が増えて嬉しい限りです。
+チーム戦のトリテに [Dr. Jekyll & Mr. Hyde(ジキルとハイド)](https://boardgamegeek.com/boardgame/686/dr-jekyll-mr-hyde) という物があるので混乱しそうですが、作者はこれがデビュー作。二人用トリックテイキングで面白い物というと入手の難しい [Beggars & Thieves(泥棒と乞食)](https://boardgamegeek.com/boardgame/10906/beggars-and-thieves) が有名なところ、また一つ傑作が増えて嬉しい限りです。
 ジキルとハイドのテーマを非対称な目標に置いたのが見事にマッチしていますね。ワイルドカードの扱いだけ急に複雑なルールと化しているところだけ残念です。
 出版社の [Mandoo Games](https://boardgamegeek.com/boardgamepublisher/30521/mandoo-games/linkeditems/boardgamepublisher) は韓国のパブリッシャーで、他に [Merchants of Dunhuang(敦煌の商人)](https://boardgamegeek.com/boardgame/283924/merchants-dunhuang) や [Castello Methoni(カステッロ・メトーニ)](https://boardgamegeek.com/boardgame/266141/castello-methoni) 等の佳作を出しています。どれもコンポーネントの配色が美しいですね。
 
@@ -69,27 +71,27 @@ tags: AbstractStrategy Review
 
 ![Fire and Ice](https://cf.geekdo-images.com/mot94TwdT2xeW8RqPPzvIQ__imagepagezoom/img/2WAYAN7MJikLt37-JTdBdq2kWoE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic233971.jpg)
 
-[Piranha Pedro(ピラニアペドロ)](https://boardgamegeek.com/boardgame/14035/piranha-pedro) や [Taro(タロ)](https://boardgamegeek.com/boardgame/148443/talo) が有名な作者だと思うのですが、これは兎に角見た目にインパクトがあります。どの地点もフラットなので中央が強すぎるという事も無く、自分が動いた後に相手のコマが置かれるというのが他に無い感触ですね。マジョリティを争っているわけではないので、本当に欲しいところに集中する必要があります。フラクタル構造になっていて部分を選ぶと全体の次の争点が決まるというのは [Quint-X(クウィントX)](https://boardgamegeek.com/boardgame/34222/quint-x)、[Nanga Parbat(ナンガ・パルバット)](https://boardgamegeek.com/boardgame/300305/nanga-parbat)、[Maphex(マップヘックス)](https://boardgamegeek.com/boardgame/322205/maphex) と言ったアブストラクトゲームで偶に採用されますが、自分の遊んだ限りではこのゲームが最初の作品です。
+[Piranha Pedro(ピラニアペドロ)](https://boardgamegeek.com/boardgame/14035/piranha-pedro) や [Taro(タロ)](https://boardgamegeek.com/boardgame/148443/talo) の作者です。中でもこれは兎に角見た目にインパクトがあります。どの地点もフラットなので中央が強すぎるという事も無く、自分が動いた後に相手のコマが置かれるというのが他に無い感触ですね。マジョリティを争っているわけではないので、本当に欲しいところに集中する必要があります。フラクタル構造になっていて部分を選ぶと全体の次の争点が決まるというのは [Quint-X(クウィントX)](https://boardgamegeek.com/boardgame/34222/quint-x)、[Nanga Parbat(ナンガ・パルバット)](https://boardgamegeek.com/boardgame/300305/nanga-parbat)、[Maphex(マップヘックス)](https://boardgamegeek.com/boardgame/322205/maphex) と言ったアブストラクトゲームで偶に採用されますが、自分の遊んだ限りではこのゲームが最初の作品です。
 
-ルール和訳の公開許可を貰おうと思ったのですが、出版社としては既に権利を持ってなく、作者の連絡先もわからないという状況です。ただルール量は少ないので [アブストラクト博物館の紹介](https://www.nakajim.net/index.php?FIRE%20and%20ICE) を見れば把握出来るでしょう。
+ルール和訳の公開許可を貰おうとしましたが、出版社としては既に権利を持ってなく、作者の連絡先もわからないという状況です。ただルール量は少ないので [アブストラクト博物館の紹介](https://www.nakajim.net/index.php?FIRE%20and%20ICE) を見れば把握出来るでしょう。
 
 ## 八位 - [Tortuga(トォルトゥーガ)](https://boardgamegeek.com/boardgame/27938/tortuga) - 2007 - [Vincent Everaert](https://boardgamegeek.com/boardgamedesigner/6083/vincent-everaert)
 
 ![Tortuga](/images/tortuga-playing.png)
 
-まだ遊べていないのですが、nestorgames から[Exxit(エクシット)](https://boardgamegeek.com/boardgame/22947/exxit) 等を出しているアブストラクト作家の方です。
+nestorgames から[Exxit(エクシット)](https://boardgamegeek.com/boardgame/22947/exxit) 等を出しているアブストラクト作家の方です。
 
-ゲームとしてはチェッカーの亜種だと思いますが、跳んだコマを自分の仲間にも出来るという将棋以外であまり見かけないルールを採用しています。この「仲間にも」というところがポイントでして、相手のコマをジャンプできる際は必ずジャンプしないといけない為「相手のコマ」「自分のコマ」「無効化された状態」の3ステートのマネジメントを考える必要があります。基本的なプレイ感は [ZÈRTZ(ゼヘツ)](https://boardgamegeek.com/boardgame/528/zertz) に近いのですが、ほのぼのしたコンポーネントとより短いプレイ時間等別の魅力を持っています。
+ゲームとしてはチェッカーの亜種だと思いますが、跳んだコマを自分の仲間にも出来るという将棋以外であまり見かけないルールを採用しています。この「仲間にも」というところがポイントでして、相手のコマをジャンプできる際は必ずジャンプしないといけない為「相手のコマ」「自分のコマ」「無効化された状態」の3ステートのマネジメントを考える必要があります。基本的なプレイ感は [ZÈRTZ(ゼヘツ)](https://boardgamegeek.com/boardgame/528/zertz) に近いながら、ほのぼのしたコンポーネントとより短いプレイ時間等別の魅力を持っています。
 
 この作品も nestorgames の版があります。特殊能力はこの版で増えたのかな？ルールの確認には nestorgames の公開和訳を使うのが良いでしょう。
-流石にコンポーネントがとても良いので是非 [Gigamic](https://boardgamegeek.com/boardgamepublisher/155/gigamic) 版で欲しいなぁと思うのですが、殆ど流通しておらず難しいところです。作者にも問い合わせてみましたが、自分用の物しか確保していないとのこと。
+流石にコンポーネントがとても良いので是非 [Gigamic](https://boardgamegeek.com/boardgamepublisher/155/gigamic) 版で欲しいながら、殆ど流通しておらず難しいところです。作者にも問い合わせてみましたが、自分用の物しか確保していないとのことです。
 
 ## 九位 - [SHŌBU(勝負)](https://boardgamegeek.com/boardgame/272380/shbu) - 2019 - [Manolis Vranas](https://boardgamegeek.com/boardgamedesigner/115448/manolis-vranas), [Jamie Sajdak](https://boardgamegeek.com/boardgamedesigner/115449/jamie-sajdak)
 
 ![SHŌBU](/images/shobu-playing.png)
 
-一手が複数の事を決める系のゲームがここ数年の流行りだと思うのですが、アブストラクトでシステム上それを実現したのがこのゲームです。手番には2手行うのですが、攻撃できない防御主体の一手目の選択次第で、攻撃可能な二手目の選択肢が絞られます。
-難点というかを挙げると、自分は何回遊んでも操作できるボード(受けの移動)を間違えそうになるところです。一緒に遊んだ方から「人類には早すぎる」と言われたのですが、わからなくも無いなーと。
+一手で複数の事を決める系のゲームがここ数年の流行りの中、アブストラクトでシステム上実現していたゲームだと思っています。手番は異なる2手を行い、攻撃できない防御主体の一手目の選択次第で攻撃可能な二手目の選択肢が絞られます。
+難点というかを挙げると、自分は何回遊んでも操作できるボード(受けの移動)を間違えそうになるところです。一緒に遊んだ方から「人類には早すぎる」と言われましたが、わからなくも無いなーと。
 後は折角4ボードあるのに、展開次第では殆ど2ボードでしか遊んでいないということも起こりがちではあります。
 
 ## 十位 - [Glaisher(グレーシャー)](https://boardgamegeek.com/boardgame/175363/glaisher) - 2015 - [Ken Shoda](https://boardgamegeek.com/boardgamedesigner/80474/ken-shoda)
@@ -100,9 +102,9 @@ tags: AbstractStrategy Review
 
 手番には自分の1スタックを重複し無い数の組み合わせに分割して分割後のスタック段数分直線移動、移動先の相手スタックが、移動した分割後スタック以下の高さなら吸収合併します。最後に空きマスへ1コマ配置し、対辺を繋げたら勝ち。
 
-ルールを聞いた段階だと、スタックが高ければ高いほど強い系は好きじゃ無いんだよなぁと思っていました。確かにそういう面もありつつ、大きすぎるスタックはそれはそれで移動させづらいので常に強いとも言えないのが良い感じです。難点は、どのスタックが今何段なのかがわかりづらくて頻繁に確認が発生するところと、1コマずつ増えるとは言えスタック段数に上限はない為収束性があまり高くはないところでしょうか。デジタルゲーム向きかもなんですが、崩れにくい物を探して苦心したというコマは手触りも良く慣れれば面白さだけが残るのかもしれません。
+ルールを聞いた段階だと、スタックが高ければ高いほど強い系は好きじゃ無いんだよなぁと思っていました。確かにそういう面もありつつ、大きすぎるスタックはそれはそれで移動させづらいので常に強いとも言えないのが良い感じです。難点は、どのスタックが今何段なのかがわかりづらくて頻繁に確認が発生するところと、1コマずつ増えるとは言えスタック段数に上限はない為収束性があまり高くはないところでしょうか。デジタルゲーム向きな感じを受けつつも、崩れにくい物を探して苦心したというコマは手触りも良く慣れれば面白さだけが残るのかもしれません。
 
 ## まとめ
 
-10個に収める為落とさざるを得なかったのですが [Kamisado(カミサド)](https://boardgamegeek.com/boardgame/38545/kamisado)、[Watergate(ウォーターゲート)](https://boardgamegeek.com/boardgame/274364/watergate)、[Dominant Species: Marine(ドミナント・スピーシーズ：マリン)](https://boardgamegeek.com/boardgame/262941/dominant-species-marine) 辺りもここに入れたかったです。[Origins: First Builders(オリジンズ：ファーストビルダーズ)](https://boardgamegeek.com/boardgame/322588/origins-first-builders)、[Boonlake(ブーンレイク)](https://boardgamegeek.com/boardgame/343905/boonlake)、[Zapotec(サポテカ)](https://boardgamegeek.com/boardgame/322589/zapotec) 等の話題作も遊ばせて貰ったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
+10個に収める為落とした [Kamisado(カミサド)](https://boardgamegeek.com/boardgame/38545/kamisado)、[Watergate(ウォーターゲート)](https://boardgamegeek.com/boardgame/274364/watergate)、[Dominant Species: Marine(ドミナント・スピーシーズ：マリン)](https://boardgamegeek.com/boardgame/262941/dominant-species-marine) 辺りも本当はここに入れたかったいぐらい好きなゲームです。[Origins: First Builders(オリジンズ：ファーストビルダーズ)](https://boardgamegeek.com/boardgame/322588/origins-first-builders)、[Boonlake(ブーンレイク)](https://boardgamegeek.com/boardgame/343905/boonlake)、[Zapotec(サポテカ)](https://boardgamegeek.com/boardgame/322589/zapotec)、Minigolf Designer(ミニゴルフデザイナー) 等の話題作も遊ばせて貰い楽しかったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
 一緒に遊んで下さった方々有難うございました。また来年もよろしくお願いします。
