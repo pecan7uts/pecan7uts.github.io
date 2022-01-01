@@ -71,7 +71,7 @@ tags: AbstractStrategy Review
 
 ![Fire and Ice](https://cf.geekdo-images.com/mot94TwdT2xeW8RqPPzvIQ__imagepagezoom/img/2WAYAN7MJikLt37-JTdBdq2kWoE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic233971.jpg)
 
-[Piranha Pedro(ピラニアペドロ)](https://boardgamegeek.com/boardgame/14035/piranha-pedro) や [Taro(タロ)](https://boardgamegeek.com/boardgame/148443/talo) の作者です。中でもこれは兎に角見た目にインパクトがあります。どの地点もフラットなので中央が強すぎるという事も無く、自分が動いた後に相手のコマが置かれるというのが他に無い感触ですね。マジョリティを争っているわけではないので、本当に欲しいところに集中する必要があります。フラクタル構造になっていて部分を選ぶと全体の次の争点が決まるというのは [Quint-X(クウィントX)](https://boardgamegeek.com/boardgame/34222/quint-x)、[Nanga Parbat(ナンガ・パルバット)](https://boardgamegeek.com/boardgame/300305/nanga-parbat)、[Maphex(マップヘックス)](https://boardgamegeek.com/boardgame/322205/maphex) と言ったアブストラクトゲームで偶に採用されますが、自分の遊んだ限りではこのゲームが最初の作品です。
+[Piranha Pedro(ピラニアペドロ)](https://boardgamegeek.com/boardgame/14035/piranha-pedro) や [Taro(タロ)](https://boardgamegeek.com/boardgame/148443/talo) の作者です。中でもこれは兎に角見た目にインパクトがあります。どの地点もフラットなので中央が強すぎるという事も無く、自分が動いた後に相手のコマが置かれるというのが他に無い感触ですね。マジョリティを争っているわけではないので、本当に欲しいところに集中する必要があります。フラクタル構造になっていて部分を選ぶと全体の次の争点が決まるというのは [Quint-X(クウィントX)](https://boardgamegeek.com/boardgame/34222/quint-x)、[Nanga Parbat(ナンガ・パルバット)](https://boardgamegeek.com/boardgame/300305/nanga-parbat)、[Maphex(マップヘックス)](https://boardgamegeek.com/boardgame/322205/maphex) と言ったアブストラクトゲームで偶に採用されていますが、自分の遊んだ限りではこのゲームが最初の作品です。
 
 ルール和訳の公開許可を貰おうとしましたが、出版社としては既に権利を持ってなく、作者の連絡先もわからないという状況です。ただルール量は少ないので [アブストラクト博物館の紹介](https://www.nakajim.net/index.php?FIRE%20and%20ICE) を見れば把握出来るでしょう。
 
@@ -90,7 +90,7 @@ nestorgames から[Exxit(エクシット)](https://boardgamegeek.com/boardgame/2
 
 ![SHŌBU](/images/shobu-playing.png)
 
-一手で複数の事を決める系のゲームがここ数年の流行りの中、アブストラクトでシステム上実現していたゲームだと思っています。手番は異なる2手を行い、攻撃できない防御主体の一手目の選択次第で攻撃可能な二手目の選択肢が絞られます。
+一手で複数の事を決める系のシステムがここ数年流行りの中、アブストラクトでそれを実現しようとした作品だと思っています。手番は異なる2手を行い、攻撃できない防御主体の一手目の選択次第で攻撃可能な二手目の選択肢が絞られます。
 難点というかを挙げると、自分は何回遊んでも操作できるボード(受けの移動)を間違えそうになるところです。一緒に遊んだ方から「人類には早すぎる」と言われましたが、わからなくも無いなーと。
 後は折角4ボードあるのに、展開次第では殆ど2ボードでしか遊んでいないということも起こりがちではあります。
 
@@ -106,5 +106,5 @@ nestorgames から[Exxit(エクシット)](https://boardgamegeek.com/boardgame/2
 
 ## まとめ
 
-10個に収める為落とした [Kamisado(カミサド)](https://boardgamegeek.com/boardgame/38545/kamisado)、[Watergate(ウォーターゲート)](https://boardgamegeek.com/boardgame/274364/watergate)、[Dominant Species: Marine(ドミナント・スピーシーズ：マリン)](https://boardgamegeek.com/boardgame/262941/dominant-species-marine) 辺りも本当はここに入れたかったいぐらい好きなゲームです。[Origins: First Builders(オリジンズ：ファーストビルダーズ)](https://boardgamegeek.com/boardgame/322588/origins-first-builders)、[Boonlake(ブーンレイク)](https://boardgamegeek.com/boardgame/343905/boonlake)、[Zapotec(サポテカ)](https://boardgamegeek.com/boardgame/322589/zapotec)、Minigolf Designer(ミニゴルフデザイナー) 等の話題作も遊ばせて貰い楽しかったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
+10個に収める為落とした [Kamisado(カミサド)](https://boardgamegeek.com/boardgame/38545/kamisado)、[Watergate(ウォーターゲート)](https://boardgamegeek.com/boardgame/274364/watergate)、[Dominant Species: Marine(ドミナント・スピーシーズ：マリン)](https://boardgamegeek.com/boardgame/262941/dominant-species-marine) 辺りも本当はここに入れたかったいぐらい好きなゲームです。[Origins: First Builders(オリジンズ：ファーストビルダーズ)](https://boardgamegeek.com/boardgame/322588/origins-first-builders)、[Boonlake(ブーンレイク)](https://boardgamegeek.com/boardgame/343905/boonlake)、[Zapotec(サポテカ)](https://boardgamegeek.com/boardgame/322589/zapotec)、[Minigolf Designer(ミニゴルフデザイナー)](https://boardgamegeek.com/boardgame/298562/minigolf-designer) 等の話題作も遊ばせて貰い楽しかったのですが、趣味嗜好としてルールのシンプルな2人用ゲームが上位を占めてしまいました。
 一緒に遊んで下さった方々有難うございました。また来年もよろしくお願いします。
