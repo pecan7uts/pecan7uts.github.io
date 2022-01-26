@@ -15,6 +15,9 @@ tags: Translation Rule
   * [ライバルカード日本語訳 PDF](https://boardgamegeek.com/filepage/232905/holi-festival-colors-japanese-translations-rivalry)
   * [サマリー Google Document](https://docs.google.com/document/d/1yS8HyUVLSWTTQ0veuvsS3s0KZ5FwGOgTjlQbuP5yFGk/edit?usp=sharing)
   * [サマリー PDF](https://boardgamegeek.com/filepage/232755/holi-festival-colors-japanese-summary)
+* [Gipfelstürmer/Gipfelkraxler(山頂をめざせ)](https://boardgamegeek.com/boardgame/181959/gipfelkraxler) - Friedemann Friese - 押し出すのが盛り上がるダイスゲームです
+  * [サマリー Google Document](https://docs.google.com/document/d/1Ob6k4ZXo4l8NXpatK-JyA_I7Ww38pBjrXYZlTuiquyw/edit?usp=sharing)
+  * [サマリー PDF](https://boardgamegeek.com/filepage/234707/gipfelsturmergipfelkraxler-japanese-summary)
 * [Carolus Magnus/Carolvs Magnvs(カール大帝)](https://boardgamegeek.com/boardgame/481/carolus-magnus) - Leo Colovini - リメイクの [Eliantys](https://boardgamegeek.com/boardgame/341286/eriantys) では[このヴァリアントか、それに近いものが採用された](https://boardgamegeek.com/thread/2694621/summary-differences-carolus-magnus)ようです
   * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 Markdown](https://gist.github.com/pecan7uts/b0fd72faaf5a507d3a32)
   * [手番毎キューブ補充からダイスの影響を排除するバリアントの抄訳+補足 PDF](https://boardgamegeek.com/filepage/205800/carolus-magnuscarolvs-magnvs)
