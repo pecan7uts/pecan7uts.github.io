@@ -7,7 +7,7 @@ tags: Translation Rule
 
 テキストだけの物が多いです。既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
 
-* [Fibonacci(フィボナッチ)](https://boardgamegeek.com/boardgame/695/fibonacci) - Thomas Naylor - キャプチャの代わりに移動・グループ移動・場所の入れ替え等があり、古さを感じさせないアブストラクトです。強いて挙げるなら Hive(ハイブ) と似た勝利条件ですが、隣接する都度相手の手数が減るため非常に収束性が高いです。
+* [Fibonacci(フィボナッチ)](https://boardgamegeek.com/boardgame/695/fibonacci) - Thomas Naylor - キャプチャが無く場所の入れ替えがあり、グループ移動も出来ると古さを感じさせないアブストラクトです。強いて挙げるなら20年後に出版された [Hive(ハイブ)](https://boardgamegeek.com/boardgame/2655/hive) と似た勝利条件ですが、こちらは隣接する都度相手の手数が減るという攻撃的なプレイを推奨するルールになっています。
   * [ルール和訳 Google Document](https://docs.google.com/document/d/1bYzgk6YeLTdszm601Fear40OgxjV4EXoHAbwpYsGtTY/edit?usp=sharing)
   * [ルール和訳 PDF](https://boardgamegeek.com/filepage/234897/fibonacci-japanese-translations-rules)
 * [Blox(ブロエックス)](https://boardgamegeek.com/boardgame/34227/blox) - Jürgen P. Grunau, Wolfgang Kramer, Hans Raggan - ハンドマネジメントが入っている為運の比重は強めながら、アブストラクト感の強いゲームです
