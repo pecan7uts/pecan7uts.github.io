@@ -7,6 +7,10 @@ tags: Translation Rule
 
 テキストだけの物が多いです。既に手放してしまったゲームも多い為、質問や指摘には対応しきれないかもしれません。記載順はなんとなくです
 
+* [Pantareï(パンタレイ)](https://boardgamegeek.com/boardgame/189830/pantarei) - Claude Leroy - Cosmoludo から出ているアブストラクトで、7段のスタック完成を目指します。
+  * [ルール和訳 PDF](https://boardgamegeek.com/filepage/235278/pantarei-japanese-translations-rules)
+* [Kamon(カモン/家紋)](https://boardgamegeek.com/boardgame/28738/kamon) - Bruno Cathala - 2007年に出版されたカタラのアブストラクトですが、これは最近 Cosmoludo から出版された版の和訳です。 [Okiya](https://boardgamegeek.com/boardgame/125311/okiya) のリメイク元ながら [Hex](https://boardgamegeek.com/boardgame/4112/hex) 的なコネクションが勝利条件の一つになっていてより食べごたえがあります。
+  * [ルール和訳 PDF](https://boardgamegeek.com/filepage/235176/kamon-japanese-translations-rules)
 * [Fibonacci(フィボナッチ)](https://boardgamegeek.com/boardgame/695/fibonacci) - Thomas Naylor - キャプチャが無く場所の入れ替えがあり、グループ移動も出来ると古さを感じさせないアブストラクトです。強いて挙げるなら20年後に出版された [Hive(ハイブ)](https://boardgamegeek.com/boardgame/2655/hive) と似た勝利条件ですが、こちらは隣接する都度相手の手数が減るという攻撃的なプレイを推奨するルールになっています。
   * [ルール和訳 Google Document](https://docs.google.com/document/d/1bYzgk6YeLTdszm601Fear40OgxjV4EXoHAbwpYsGtTY/edit?usp=sharing)
   * [ルール和訳 PDF](https://boardgamegeek.com/filepage/234897/fibonacci-japanese-translations-rules)
