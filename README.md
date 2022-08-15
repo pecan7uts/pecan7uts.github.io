@@ -1,3 +1,1 @@
-# RRepository of personal site
-
-<https://pecan7uts.github.io/> のリポジトリです。 typo 等へのPRを出していただけるととても助かります。
+[移転しました。](https://tabletops.games/)
